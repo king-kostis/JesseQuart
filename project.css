@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(45deg, red 20%, pink)
+}
+
+img { 
+    width: 50%;
+}
+
+p, h1, h2, ul, ol {
+    color: white;
+}
+
